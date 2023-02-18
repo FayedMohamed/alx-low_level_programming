@@ -1,4 +1,4 @@
-#include<stido.h>
+#include<stdio.h>
 /**
  * main - Entry value
  * Description: 'A program to print all base 10 numbers'
